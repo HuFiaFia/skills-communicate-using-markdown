@@ -8,3 +8,6 @@ $git init
 ``` javascript
 var myVar = "你好，世界！"；
 ```
+- [ ] Turn on Github Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
